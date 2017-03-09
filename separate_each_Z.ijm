@@ -2,7 +2,6 @@ setBatchMode(true);
 
 //MAKE SURE THIS IS CORRECT!!
 num_z = 11;
-//path = "/Users/heesoo/Desktop/spinning_disk_TPN/D41_bx/ppk28TRP/2014_07_01/fly4/h2/";
 path = getDirectory("Choose a Directory");
 
 filename = getFileList(path);
